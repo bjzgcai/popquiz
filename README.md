@@ -2,6 +2,10 @@
 
 PQ is an AI-powered interactive platform specifically designed for knowledge-sharing scenarios. It aims to transform traditional one-way lectures into immersive, quantifiable two-way exchanges through real-time speech analysis, dynamic question generation, and instant feedback, maximizing the efficiency and depth of knowledge transfer.
 
+# Related thesises
+
+[A Framework for Self-evolution of Knowledge Graphs Based on Feedback Driven Evolution](https://github.com/undoubtable/KG_allprocess)
+
 
 # ✨ Core Features & System Implementation
 
