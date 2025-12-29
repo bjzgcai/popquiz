@@ -6,6 +6,7 @@ PQ is an AI-powered interactive platform specifically designed for knowledge-sha
 
 [A Framework for Self-evolution of Knowledge Graphs Based on Feedback Driven Evolution](https://github.com/undoubtable/KG_allprocess)
 
+[Game Based LLM of PQ](https://github.com/Shaobin-Jiang/pq-report)
 
 # ✨ Core Features & System Implementation
 
